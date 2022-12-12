@@ -24,7 +24,7 @@
     
   <br></br>
   
-  <div style='display:flex; flex-direction: column;'>
+  <div style='display:flex; flex-direction: row;'>
   <h2>Code</h2>
   <h2>Design</h2>
   </div>
