@@ -24,14 +24,14 @@
     
   <br></br>
   
-  <div style='display:flex;'>
-    <div style='flex-direction: column;'>  
+  <div align='flex;'>
+    <div style='align:right'>  
       <h2>Code</h2>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </div>
-    <div style='flex-direction: row;'>
+    <div align='left'>
       <h2>Design</h2>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
