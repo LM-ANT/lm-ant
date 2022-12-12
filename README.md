@@ -3,7 +3,7 @@
   
  <a style="pointer-events: none; cursor: default;"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=40&duration=3000&pause=10000&color=BDD6E7&background=7AE8FF00&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Welcome+I'm+designer+%26+dev+Web++" alt="Typing SVG" /></a>
   
-  <div style='padding:1em; display:flex; justify-content:center;'>
+  <div style='display:flex; justify-content:center;'>
     <a href="https://lm-ant.github.io">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" />
     </a>&nbsp;&nbsp;
@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>&nbsp;&nbsp;
 </div>
+  
   <br></br>
   
 
