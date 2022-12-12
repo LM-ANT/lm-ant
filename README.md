@@ -25,7 +25,7 @@
   <br></br>
   
   <div style='display:flex;'>
-    <div style='flex-direction: row;'>  
+    <div style='flex-direction: column;'>  
       <h2>Code</h2>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
