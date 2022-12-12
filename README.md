@@ -24,7 +24,7 @@
     
   <br></br>
   
-  <div align='flex; flex-direction: row-reverse;'>
+  <div style='display:flex; flex-direction: row-reverse;'>
     <div align='right'>  
       <h2>Code</h2>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
