@@ -1,4 +1,4 @@
 
 <div id="header" align="center">
-  ![](https://github.com/lm-ant/46Wu.gif)
+  ![](https://github.com/LM-ANT/lm-ant/blob/main/46Wu.gif)
 </div>
