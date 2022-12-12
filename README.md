@@ -24,7 +24,7 @@
     
   <br></br>
   
-  <div>
+  <div style='display:flex; columns:2;'>
   <h2>Code</h2>
   <h2>Design</h2>
   </div>
