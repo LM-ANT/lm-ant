@@ -5,7 +5,7 @@
   
   <br></br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={lm-ant}" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={LM-ANT}" />
 
 </div>
 
