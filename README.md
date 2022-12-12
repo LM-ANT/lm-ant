@@ -6,7 +6,7 @@
   
   <div style='display:flex; justify-content:center;'>
     <a href="https://lm-ant.github.io">
-        <img src="https://img.shields.io/badge/Portfolio-yellowgreen.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Portfolio-AD8CD6.svg?style=for-the-badge" />
     </a>&nbsp;&nbsp;
     <a href="mailto:louismarie.beyer@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
