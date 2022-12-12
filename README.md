@@ -4,10 +4,10 @@
  <a style="pointer-events: none; cursor: default;"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=40&duration=3000&pause=10000&color=BDD6E7&background=7AE8FF00&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Welcome+I'm+designer+%26+dev+Web++" alt="Typing SVG" /></a>
   
   <div style='padding:1em; display:flex; justify-content:center;'>
-    <a onClick="javascript:window.open('https://lm-ant.github.io', 'my-window');event.preventDefault()" href="https://lm-ant.github.io">
+    <a href="https://lm-ant.github.io">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
     </a>&nbsp;&nbsp;
-    <a  onClick="javascript:window.open('mailto:louismarie.beyer@gmail.com', 'my-window');event.preventDefault()" href="mailto:louismarie.beyer@gmail.com">
+    <a href="mailto:louismarie.beyer@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/377560969213378560">
