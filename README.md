@@ -5,7 +5,7 @@
   
   <br></br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={LM-ANT}&theme=blue-green" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-ant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
