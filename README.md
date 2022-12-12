@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
-  ![](https://github.com/LM-ANT/lm-ant/blob/main/46Wu.gif)
+  <img src="https://giphy.com/gifs/9eutY1z2G3bpbP2zeJ" width="100"/>
 </div>
