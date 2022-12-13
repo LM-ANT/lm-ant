@@ -24,21 +24,22 @@
     
   <br></br>
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
+  table td {
+    border: none !important;
+  }
 </style>
-
-| Column One    | Column Two    |                                                                                                                                                   
-| ---           | ---           |                                                                                                                                                   
-| data cell one | data cell two |        
+<table>
+  <tbody>
+    <tr>
+      <td>Column One</td>
+      <td>Column One</td>
+    </tr>
+    <tr>
+      <td>Content of column one</td>
+      <td>Content of column two</td>
+    </tr>
+  </tbody>
+</table>   
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-ant&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
