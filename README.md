@@ -23,11 +23,23 @@
 </div>
     
   <br></br>
-<h2>Code</h2> | <h2>Design</h2>
------------- | -------------
-👉 Content cell 1 | ✅ Content cell 2 
-👉 Content column 1 | ✅ Content column 2 
-👉 Content column 1 | ✅ Content column 2 
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
 
   <div style='display:flex; flex-direction: row-reverse;'><div align='right'> 
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
