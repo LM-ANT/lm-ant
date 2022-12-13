@@ -24,24 +24,14 @@
     
   <br></br>
 </div>
-<div >
+<div>
      <div align="left" >
-        <p align="center">🏫 Apprenticeship at 3WA since September 2021</p>
-        <br></br>
-        <p align="center">📙 Would like to Practice React</p>
-        <br></br>
-        <p align="center">📍 Lives in Grenoble, France</p>
-        <br></br>
-        <p align="center">🍔 Food Lover</p>
+        <p>🏫 Apprenticeship at 3WA since September 2021</p>
+        <p>🏫 Apprenticeship at 3WA since September 2021</p><p>🏫 Apprenticeship at 3WA since September 2021</p>
     </div>
     <div align="right" >
-        <p align="center">🏫 Apprenticeship at 3WA since September 2021</p>
-        <br></br>
-        <p align="center">📙 Would like to Practice React</p>
-        <br></br>
-        <p align="center">📍 Lives in Grenoble, France</p>
-        <br></br>
-        <p align="center">🍔 Food Lover</p>
+        <p>🏫 Apprenticeship at 3WA since September 2021</p>
+      <p>🏫 Apprenticeship at 3WA since September 2021</p>
     </div>
 </div>
 
