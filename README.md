@@ -24,14 +24,16 @@
     
   <br></br>
 </div>
-<div>
-     <div align="left" >
-        <p>🏫 Apprenticeship at 3WA since September 2021</p>
-        <p>🏫 Apprenticeship at 3WA since September 2021</p><p>🏫 Apprenticeship at 3WA since September 2021</p>
-    </div>
+<div >
+    <img src="https://media0.giphy.com/media/9eutY1z2G3bpbP2zeJ/giphy.gif" width="480" align="left"></img>
     <div align="center" >
-        <p>🏫 Apprenticeship at 3WA since September 2021</p>
-      <p>🏫 Apprenticeship at 3WA since September 2021</p>
+        <p align="center">🏫 Apprenticeship at 3WA since September 2021</p>
+        <br></br>
+        <p align="center">📙 Would like to Practice React</p>
+        <br></br>
+        <p align="center">📍 Lives in Grenoble, France</p>
+        <br></br>
+        <p align="center">🍔 Food Lover</p>
     </div>
 </div>
 
