@@ -24,18 +24,22 @@
     
   <br></br>
 
-<table style='border: none !important;'>
-  <tbody style='border: none !important;'>
-    <tr style='border: none !important;'>
-      <td>Column One</td>
-      <td>Column One</td>
-    </tr>
-    <tr style='border: none !important;'****>
-      <td>Content of column one</td>
-      <td>Content of column two</td>
-    </tr>
-  </tbody>
-</table>   
+<div style='some-page-wrapper'>
+  <div style='display: flex; flex-direction: row; flex-wrap: wrap; width: 100%;'>
+    <div style='display: flex; flex-direction: column; flex-basis: 100%; flex: 1;'>
+      <div>
+        Some Text in Column One
+      </div>
+    </div>
+    <div style='display: flex; flex-direction: column; flex-basis: 100%; flex: 1;'>
+      <div>
+        Some Text in Column Two
+      </div>
+    </div>
+  </div>
+</div>
+
+
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-ant&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
