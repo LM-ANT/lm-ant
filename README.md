@@ -34,7 +34,7 @@
         <br></br>
         <p align="center">🍔 Food Lover</p>
     </div>
-    <div align="center" >
+    <div align="right" >
         <p align="center">🏫 Apprenticeship at 3WA since September 2021</p>
         <br></br>
         <p align="center">📙 Would like to Practice React</p>
