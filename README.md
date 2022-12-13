@@ -24,13 +24,13 @@
     
   <br></br>
 
-<table>
+<table style='border: none !important;'>
   <tbody style='border: none !important;'>
-    <tr>
+    <tr style='border: none !important;'>
       <td>Column One</td>
       <td>Column One</td>
     </tr>
-    <tr>
+    <tr style='border: none !important;'****>
       <td>Content of column one</td>
       <td>Content of column two</td>
     </tr>
