@@ -25,9 +25,7 @@
   <br></br>
 </div>
 <div >
-  <h2>Code                                              Design</h2>
-    <img src="https://media0.giphy.com/media/9eutY1z2G3bpbP2zeJ/giphy.gif" width="300" align="left"></img>
-    <img src="https://media0.giphy.com/media/9eutY1z2G3bpbP2zeJ/giphy.gif" width="300" align="right"></img>
+
 </div>
 
 
