@@ -23,13 +23,9 @@
 </div>
     
   <br></br>
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
+
 <table>
-  <tbody>
+  <tbody style='border: none !important;'>
     <tr>
       <td>Column One</td>
       <td>Column One</td>
