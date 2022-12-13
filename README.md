@@ -23,7 +23,7 @@
 </div>
     
   <br></br>
-
+</div>
 <div >
      <div align="left" >
         <p align="center">🏫 Apprenticeship at 3WA since September 2021</p>
@@ -46,7 +46,7 @@
 </div>
 
 
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-ant&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
