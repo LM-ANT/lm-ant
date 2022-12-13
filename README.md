@@ -36,7 +36,7 @@
   </div>
   <table>
 <tr>
-<th> Good </th>
+<th> <h1>Good</h1> </th>
 <th> Bad </th>
 </tr>
 <tr>
