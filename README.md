@@ -23,7 +23,12 @@
 </div>
     
   <br></br>
-  
+  Code | Design 
+------------ | -------------
+👉 Content cell 1 | ✅ Content cell 2 
+👉 Content column 1 | ✅ Content column 2 
+👉 Content column 1 | ✅ Content column 2 
+
   <div style='display:flex; flex-direction: row-reverse;'><div align='right'>  <h2>Code</h2>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
