@@ -25,8 +25,10 @@
   <br></br>
 </div>
 <div >
+  <p align="left">Code</p>
     <img src="https://media0.giphy.com/media/9eutY1z2G3bpbP2zeJ/giphy.gif" width="300" align="left"></img>
-    <img src="https://media0.giphy.com/media/9eutY1z2G3bpbP2zeJ/giphy.gif" width="300" align="center"></img>
+    <p align="right">Design</p>
+    <img src="https://media0.giphy.com/media/9eutY1z2G3bpbP2zeJ/giphy.gif" width="300" align="right"></img>
 </div>
 
 
