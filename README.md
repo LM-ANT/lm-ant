@@ -25,7 +25,7 @@
   <br></br>
 
 <table style='border-style: none;'>
-<tr>
+<tr style='border-style: none;'>
 <th> <h2>Code</h2> </th>
 <th> <h2>Design</h2> </th>
 </tr>
