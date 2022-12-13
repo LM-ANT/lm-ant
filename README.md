@@ -35,7 +35,11 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   
+  <br></br>
+  <br></br>
+  
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-ant&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 <div >
 
 </div>
@@ -43,6 +47,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-ant&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
