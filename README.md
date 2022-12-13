@@ -63,8 +63,6 @@
   <br></br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-ant&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-v1.10.5-brightgreen)](https://www.clipstudio.net/en)
 </div>
 
 
