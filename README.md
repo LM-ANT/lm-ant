@@ -11,7 +11,7 @@
     <a href="mailto:louismarie.beyer@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/377560969213378560">
+    <a href="https://discord.gg/9y6GFBmAJx">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/louis-marie-beyer-886818164/">
