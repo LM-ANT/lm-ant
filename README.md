@@ -38,9 +38,7 @@
   <br></br>
   <br></br>
   
-</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lm-ant&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-<div >
 
 </div>
 
