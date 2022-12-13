@@ -29,13 +29,13 @@
 <th style='border-style: none;'> <h2>Code</h2> </th>
 <th> <h2>Design</h2> </th>
 </tr>
-<tr>
-<td>
+<tr style='border-style: none;'>
+<td style='border-style: none;'>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 </td>
-<td>
+<td style='border-style: none;'>
 
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
