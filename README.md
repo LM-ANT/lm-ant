@@ -23,7 +23,7 @@
 </div>
     
   <br></br>
-   <h2>Code</h2> | Design 
+<h2>Code</h2> | <h2>Design</h2>
 ------------ | -------------
 👉 Content cell 1 | ✅ Content cell 2 
 👉 Content column 1 | ✅ Content column 2 
@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </div><div align='left'><h2>Design</h2>
+    </div><div align='left'>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </div>
