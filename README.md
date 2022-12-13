@@ -29,7 +29,7 @@
         <p>🏫 Apprenticeship at 3WA since September 2021</p>
         <p>🏫 Apprenticeship at 3WA since September 2021</p><p>🏫 Apprenticeship at 3WA since September 2021</p>
     </div>
-    <div align="right" >
+    <div align="center" >
         <p>🏫 Apprenticeship at 3WA since September 2021</p>
       <p>🏫 Apprenticeship at 3WA since September 2021</p>
     </div>
