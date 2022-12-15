@@ -23,7 +23,7 @@
 </div>
   
   <br></br>
-  
+  -----------------------------------------------
   <ul align="left">
     <li><p>:seedling: Fast learner because I'm passionate</p></li>
     <li><p>I'm currently employed by <strong>your firm</strong> :interrobang:</p></li>
