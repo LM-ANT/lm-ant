@@ -24,9 +24,9 @@
   
   <br></br>
   
-  <p>22 years </p>
+  <p>:seedling: Fast learner because I'm passionate</p>
   <p>I'm currently employed by <strong>your firm</strong> :interrobang:</p>
-  <p>:e-mail: <strong>Contact</strong> me for any projects or teamwork</p>
+  <p>:e-mail: <strong>Contact me</strong> for any projects or teamwork</p>
     
   <br></br>
   
