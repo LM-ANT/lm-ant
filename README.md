@@ -49,11 +49,14 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
   <img src="https://img.shields.io/badge/AMD%20Radeon_RX_6900XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/...-5E5C5C?style=for-the-badge&logoColor=white"/>
 
   <h2>:pencil2: Design</h2>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clip_Studio_Paint-AD8CD6.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/...-5E5C5C?style=for-the-badge&logoColor=white"/>
+
   
   <h2>:zzz: After Work</h2>
   <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>
@@ -63,6 +66,8 @@
   <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/>
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/...-5E5C5C?style=for-the-badge&logoColor=white"/>
+
   
   <br></br>
   <br></br>
