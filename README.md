@@ -24,7 +24,7 @@
   
   <br></br>
   
-  <ul>
+  <ul align="left">
     <li><p>:seedling: Fast learner because I'm passionate</p></li>
     <li><p>I'm currently employed by <strong>your firm</strong> :interrobang:</p></li>
     <li><p>:e-mail: <strong>Contact me</strong> for any projects or teamwork</p></li>
