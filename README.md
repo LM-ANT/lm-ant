@@ -24,7 +24,7 @@
   
   <br></br>
   
-  <p>- :seedling: Fast learner because I'm passionate</p>
+  -<p>:seedling: Fast learner because I'm passionate</p>
   <p>I'm currently employed by <strong>your firm</strong> :interrobang:</p>
   <p>:e-mail: <strong>Contact me</strong> for any projects or teamwork</p>
     
