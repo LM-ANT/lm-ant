@@ -25,8 +25,8 @@
   <br></br>
   
   <p>22 years </p>
-  <p>I'm currently employed by your firm:interrobang:</p>
-  <p>:e-mail: Contact me for any projects or teamwork</p>
+  <p>I'm currently employed by <strong>your firm</strong> :interrobang:</p>
+  <p>:e-mail: <strong>Contact</strong> me for any projects or teamwork</p>
     
   <br></br>
   
